@@ -1,4 +1,3 @@
-package deneme;
 import  java.awt.BorderLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -10,7 +9,7 @@ import javax.swing.JTextField;
 
 
 
-public class  Drivers {
+public class  setsize {
 public static void  main(String[] args) {
 	JFrame	frame = new JFrame();
 	frame.setSize(800, 600);
