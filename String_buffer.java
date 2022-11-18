@@ -1,8 +1,6 @@
-package deneme;
-
 import java.util.Scanner;
 
-public class stringbuffer {
+public class string_buffer {
 	public static void main (String [] args  ) {
 		/*String str1 = "aynen";
 		System.out.println(str1);
