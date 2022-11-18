@@ -1,8 +1,6 @@
-package deneme;
-
 import java.util.Arrays;
 
-public class dizilab {
+public class Dizilab_1 {
 	
 public static void main (String[] args) {
 	int [] numbers = new int[5];
