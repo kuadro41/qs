@@ -1,8 +1,8 @@
-package deneme;
+
 import java.util.Arrays;
 
 
-public class diziler1 {
+public class Diziler_1 {
 	public static void main (String [] args) {
 	/*int[] numbers;
 	numbers = new int[16];
