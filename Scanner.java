@@ -1,6 +1,3 @@
-package deneme;
-
-
 import java.util.Scanner;
 
 
