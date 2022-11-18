@@ -1,6 +1,6 @@
 package deneme;
 
-public class veritürleri {
+public class Veri_Türleri {
 	public static void main(String[]args) {
 		byte b=1; //1 byte
 		System.out.println(b);
