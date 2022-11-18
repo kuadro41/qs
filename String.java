@@ -1,6 +1,4 @@
-package deneme;
-
-public class Driver  {
+public class String  {
 	public static void main (String[] args) {
 		String FirstName = "joe" ; // isim tanımlama
 		System.out.println(FirstName.charAt(1));// charAt komutu belirtilen konumda ki harfi yazdırır
